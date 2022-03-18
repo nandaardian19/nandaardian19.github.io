@@ -1,0 +1,8 @@
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\bin\Debug\tp4_1302194049.exe.config
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\bin\Debug\tp4_1302194049.exe
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\bin\Debug\tp4_1302194049.pdb
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\obj\Debug\tp4_1302194049.csproj.AssemblyReference.cache
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\obj\Debug\tp4_1302194049.csproj.SuggestedBindingRedirects.cache
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\obj\Debug\tp4_1302194049.csproj.CoreCompileInputs.cache
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\obj\Debug\tp4_1302194049.exe
+C:\Users\nanda\source\repos\tp4_1302194049\tp4_1302194049\obj\Debug\tp4_1302194049.pdb
